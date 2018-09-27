@@ -1,0 +1,6 @@
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.csprojAssemblyReference.cache
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.csproj.CoreCompileInputs.cache
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.RazorAssemblyInfo.cache
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.RazorAssemblyInfo.cs
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.AssemblyInfoInputs.cache
+/Users/roman/Projects/CMCDataServer/CMCDataServer/obj/Debug/netcoreapp2.1/CMCDataServer.AssemblyInfo.cs
